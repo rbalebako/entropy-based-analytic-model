@@ -78,6 +78,9 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Generated dataset output
+synthetic_dataset.csv
+
 # IPython
 profile_default/
 ipython_config.py
